@@ -10,4 +10,4 @@ The App developed using [MIT App Inventor](https://appinventor.mit.edu/)
 ---
 
 ![](https://github.com/AbhiAravind/bt-remote/blob/main/Blocks.jpg)
-![]()
+![](https://github.com/AbhiAravind/bt-remote/blob/main/Design.jpg)
